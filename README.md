@@ -12,7 +12,7 @@ In this project, you will create a backend of a blog application, utilizing Mode
 
 ## Create your project
 
-Utilize `npm init -y` to create your project.
+Utilize `npm init es6` to create your project.
 
 Install your `express`, `nodemon`, and `dotenv` dependencies.
 
